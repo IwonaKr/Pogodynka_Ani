@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pogodynka</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_weather">Pogoda</string>
+    <string name="podajMiasto">Podaj lokację:</string>
+    <string name="pogoda">"Pogoda: "</string>
+    <string name="temperatura">Temperatura</string>
+    <string name="tempOdcz">Odczuwalna temp:</string>
+    <string name="title_activity_getweather">Getweather</string>
+    <string name="title_activity_sporty">Sporty</string>
+    <string name="title_activity_ubranie">Ubranie</string>
+    <string name="toSports">Sport</string>
+
+</resources>
